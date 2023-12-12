@@ -1,0 +1,22 @@
+PERMINTAAN USER:
+Jadi sebelum di datang ke perpustakaan dan meminjam sebuah buku. Pengguna bisa mencari terlebih dahulu buku yang 
+akan dipinjam, untuk memastikan bahwa di perpustakaan yang akan dia kunjungi benar
+bahwa buku tersebut tersedia.
+Alur logika sistem booking pustaka ini yaitu seseorang yang ingin melakukan booking 
+diharuskan mendaftar menjadi anggota terlebih dahulu, selanjutnya ketika sudah menjadi 
+58
+anggota, baru dapat melakukan booking terhadap buku yang akan dipinjam. Setelah 
+melakukan booking, anggota diharuskan mengambil buku yang telah dibooking dengan cara 
+datang langsung ke perpustakaan dalam waktu 1x24 jam. Kemudian konfirmasi ke petugas 
+atau admin untuk diambilkan buku yang telah dibooking berdasarkan bukti booking melalui aplikasi
+
+
+MARI BIKIN ALUR MOTHER FUCKER:
+1. JIKA USER SUDAH REGISTASI MAKA ROLE NYA AKAN MENJADI ANGGOTA, PAKE STRING ATAU INTEGER YA COBA CEK TABLE
+2. AKAN ADA MIDDLEWARE KHUSUS ANGGOTA UNTUK BOOKING buku
+3. JIKA ROLE ANGGOTA SUDAH CLICK BOOKING BUKU MAKA AKAN ADA struk bukti booking dan WAKTU 1x24 jam untu user datang ke perpust untuk bertemu admin 
+
+
+
+catatan yang boleh dihapus:
+
